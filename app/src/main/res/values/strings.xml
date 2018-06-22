@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HereTest</string>
+    <string name="eta_row">%1$s m</string>
+</resources>
